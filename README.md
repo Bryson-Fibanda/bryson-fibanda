@@ -21,7 +21,7 @@ I'm a passionate **Computer Technology student** at Jomo Kenyatta University of 
 ### 🧩 My Journey
 My journey into tech started in the classroom, but it truly took off through hands-on projects and internships. From assisting in SQL optimization and system upgrades at JKUAT to providing IT support and maintaining servers at the Postal Corporation of Kenya, I've gained valuable experience in both development and infrastructure.
 
-I'm particularly drawn to **backend logic, API integration, and system security**—areas where I can build robust and scalable solutions.
+I'm particularly drawn to **backend logic, API integration, and system security**,areas where I can build robust and scalable solutions.
 
 ---
 
