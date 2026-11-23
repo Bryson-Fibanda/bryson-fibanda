@@ -1,9 +1,6 @@
 # Hey there, I'm Bryson! 👋
 
-I'm a passionate **Computer Technology student** at Jomo Kenyatta University of Agriculture and Technology, with a strong interest in **backend development, cybersecurity, and building practical software solutions**. I enjoy turning complex problems into simple, elegant code and am always eager to learn new technologies and frameworks.
-
-💡 I believe in the power of technology to create efficient systems and solve real-world problems.  
-🔥 I'm on a journey to master full-stack development, cloud computing, and cybersecurity.
+I'm a passionate **Computer Technology graduate** from Jomo Kenyatta University of Agriculture and Technology, with interest in **backend development, cybersecurity, and building practical software solutions**. I enjoy turning complex problems into simple, elegant code and am always eager to learn new technologies and frameworks.
 
 ---
 
