@@ -1,36 +1,52 @@
-# Hey there, I'm Bryson! 👋
+<div align="center">
 
-I'm a passionate **Computer Technology graduate** from Jomo Kenyatta University of Agriculture and Technology, with interest in **backend development, cybersecurity, and building practical software solutions**. I enjoy turning complex problems into simple, elegant code and am always eager to learn new technologies and frameworks.
+# Bryson Fibanda Omulubi
 
----
+**BSc Computer Technology Graduate (JKUAT)**  
+Full-Stack & Backend Developer · AI & Computer Vision Builder · Systems & Security Enthusiast
 
-### 🔧 Tech Stack
-- **💻 Languages:** Python, JavaScript, HTML, CSS
-- **🚀 Backend:** Flask, Django
-- **🎨 Frontend & Design:** React Native, Figma (UI/UX)
-- **📱 Mobile:** React Native
-- **☁️ Cloud & DevOps:** AWS
-- **🛡️ Cybersecurity:** Vulnerability Assessment, Penetration Testing Fundamentals
-- **💾 Systems:** Linux, Windows
+[![Portfolio](https://img.shields.io/badge/Portfolio-bryson--fibanda.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://bryson-fibanda.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryson_Fibanda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryson-fibanda-3ab63923a)
+[![Email](https://img.shields.io/badge/Email-brysonfibanda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brysonfibanda@gmail.com)
+
+</div>
 
 ---
 
-### 🧩 My Journey
-My journey into tech started in the classroom, but it truly took off through hands-on projects and internships. From assisting in SQL optimization and system upgrades at JKUAT to providing IT support and maintaining servers at the Postal Corporation of Kenya, I've gained valuable experience in both development and infrastructure.
+> Turning complex requirements, APIs, and ideas into clean, reliable software—from responsive frontends and payment workflows to AI-assisted and computer vision systems.
 
-I'm particularly drawn to **backend logic, API integration, and system security**,areas where I can build robust and scalable solutions.
+---
+---
+
+### Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frontend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Backend & Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) `REST APIs` `M-Pesa API` `Paystack API` |
+| **AI & Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) `Groq API` `YOLO` `MediaPipe` `SAM2` `Data Labelling & Annotation` |
+| **Cloud, Containers & OS** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Security & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) `Network Defense` `Vulnerability Assessment` `Penetration Testing Fundamentals` |
 
 ---
 
-### 🏆 Featured Projects
-- **⚖️ Small Claims Court Chatbot with Prediction Model** – Contributed to both frontend and backend development, implementing core logic and API integration.
-- **🌐 Project Portfolio** – Check out more of my work here: [bryson-fibanda.github.io](https://bryson-fibanda.github.io/)
+### Selected Projects & Builds
+
+| Project | Overview | Stack & Focus |
+| :--- | :--- | :--- |
+| **VerseFinder** | Progressive Web App and AI faith companion offering contextual scripture and real-time query parsing with an integrated donation flow. | `PWA` `M-Pesa API` `Accessible UI` |
+| **Portfolio AI Assistant** | Real-time interactive assistant embedded into a personal portfolio for context-aware queries and dynamic content responses. | `Groq API` `Web` `AI Integration` |
 
 ---
 
-### 📫 Let's Connect
-- **🌐 Portfolio:** [bryson-fibanda.github.io](https://bryson-fibanda.github.io/)
-- **💼 LinkedIn:** [Bryson Fibanda](https://www.linkedin.com/in/bryson-fibanda-3ab63923a)
-- **📧 Email:** [brysonfibanda@gmail.com](mailto:brysonfibanda@gmail.com)
+### Active Explorations & Collaboration
 
-> *Always learning, always building.*
+- **▸ AI-Powered Interfaces:** Building smarter, faster conversational and query-driven experiences on the web.
+- **▸ Computer Vision Pipelines:** Experimenting with detection and segmentation workflows using OpenCV, YOLO, MediaPipe, and SAM2.
+- **▸ Open Collaboration:** Open to collaborating on practical web applications, API/payment integrations, AI tools, and thoughtful open-source projects.
+
+<div align="center">
+
+*Based in Nairobi, Kenya · Open to software, AI, and technical collaboration*
+
+</div>
